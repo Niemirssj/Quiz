@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zgaduj_Zgadula.Carrier">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Disk">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Disk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Genius">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Genius.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Gracz">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gracz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Helix">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Monolith">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monolith.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Postać">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAIAAAAAFAEQAAAAIAAAAAIAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Postać.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Pytanie">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQgAAAAAAAAAAACAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB1">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB2">
+    <Position X="14.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB3">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB4">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB5">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB6">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB7">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.LAB8">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.egzamin">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Scout">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Zgaduj_Zgadula.Wrok" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.307" />
+        <Point X="3.75" Y="2.307" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Shell">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Stealth">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Towers">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Towers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.User">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.UserSettings">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAQAAAAADQDwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.WaldemarBartyna">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WldemarBartyna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.Wrok">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAQAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.InvalidLoginException">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wyjatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zgaduj_Zgadula.UserAlreadyExistsException">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wyjatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
