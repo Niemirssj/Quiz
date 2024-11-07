@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zgaduj Zgadula", "Zgaduj Zgadula\Zgaduj Zgadula.csproj", "{259F0663-636F-446E-8924-31ED4AA12C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gra", "Gra\Gra.csproj", "{614C5B3C-7AE2-4DA6-86E8-57AC62A5448F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259F0663-636F-446E-8924-31ED4AA12C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259F0663-636F-446E-8924-31ED4AA12C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259F0663-636F-446E-8924-31ED4AA12C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259F0663-636F-446E-8924-31ED4AA12C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614C5B3C-7AE2-4DA6-86E8-57AC62A5448F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614C5B3C-7AE2-4DA6-86E8-57AC62A5448F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614C5B3C-7AE2-4DA6-86E8-57AC62A5448F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614C5B3C-7AE2-4DA6-86E8-57AC62A5448F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B88CC6-F944-4459-98A0-252B77092EAC}
+	EndGlobalSection
+EndGlobal
