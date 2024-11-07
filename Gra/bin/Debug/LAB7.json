@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest analiza statyczna kodu?",
+    "Odpowiedzi": [
+      "A. Proces analizowania kodu bez jego wykonywania, w celu wykrycia błędów i problemów.",
+      "B. Proces wykonywania kodu w czasie rzeczywistym.",
+      "C. Proces kompilacji kodu.",
+      "D. Proces testowania kodu w różnych środowiskach."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Co to jest analiza dynamiczna kodu?",
+    "Odpowiedzi": [
+      "A. Proces analizowania kodu w czasie rzeczywistym podczas jego wykonywania.",
+      "B. Proces analizy kodu przed kompilacją.",
+      "C. Proces tworzenia dokumentacji kodu.",
+      "D. Proces kompilacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Co to jest profilowanie kodu?",
+    "Odpowiedzi": [
+      "A. Proces mierzenia wydajności kodu i identyfikacji wąskich gardeł.",
+      "B. Proces pisania testów jednostkowych.",
+      "C. Proces tworzenia dokumentacji kodu.",
+      "D. Proces optymalizacji pamięci."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Jakie narzędzia służą do analizy statycznej kodu?",
+    "Odpowiedzi": [
+      "A. Narzędzia takie jak SonarQube, ESLint, StyleCop.",
+      "B. Narzędzia takie jak JUnit, NUnit, MSTest.",
+      "C. Narzędzia takie jak Git, SVN, Mercurial.",
+      "D. Narzędzia takie jak Docker, Kubernetes."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Jakie narzędzia służą do analizy dynamicznej kodu?",
+    "Odpowiedzi": [
+      "A. Narzędzia takie jak Dynatrace, New Relic, AppDynamics.",
+      "B. Narzędzia takie jak SonarQube, ESLint, StyleCop.",
+      "C. Narzędzia takie jak Git, SVN, Mercurial.",
+      "D. Narzędzia takie jak Docker, Kubernetes."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Co to jest testowanie jednostkowe?",
+    "Odpowiedzi": [
+      "A. Proces testowania pojedynczych jednostek kodu w celu zapewnienia ich poprawności.",
+      "B. Proces testowania całego systemu jako całości.",
+      "C. Proces testowania kodu w czasie rzeczywistym.",
+      "D. Proces analizy kodu przed kompilacją."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  },
+  {
+    "Tresc": "Jakie narzędzia służą do testowania jednostkowego?",
+    "Odpowiedzi": [
+      "A. Narzędzia takie jak JUnit, NUnit, MSTest.",
+      "B. Narzędzia takie jak SonarQube, ESLint, StyleCop.",
+      "C. Narzędzia takie jak Git, SVN, Mercurial.",
+      "D. Narzędzia takie jak Docker, Kubernetes."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB7"
+  }
+]

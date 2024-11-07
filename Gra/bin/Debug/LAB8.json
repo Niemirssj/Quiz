@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest algorytm sortowania i jakie są jego przykłady?",
+    "Odpowiedzi": [
+      "A. Proces uporządkowania danych według określonego porządku; przykłady to sortowanie bąbelkowe, szybkie sortowanie, sortowanie przez wstawianie.",
+      "B. Proces kompresji danych.",
+      "C. Proces wyszukiwania danych w bazie danych.",
+      "D. Proces konwersji danych do formatu JSON."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Co to jest algorytm wyszukiwania i jakie są jego przykłady?",
+    "Odpowiedzi": [
+      "A. Proces znajdowania elementu w zbiorze danych; przykłady to wyszukiwanie binarne, wyszukiwanie liniowe.",
+      "B. Proces kompresji danych.",
+      "C. Proces sortowania danych.",
+      "D. Proces konwersji danych do formatu XML."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Co to jest analiza złożoności czasowej i przestrzennej algorytmów?",
+    "Odpowiedzi": [
+      "A. Ocena, jak algorytm wpływa na czas wykonywania i zużycie pamięci w zależności od rozmiaru danych wejściowych.",
+      "B. Ocena, jak algorytm kompresuje dane.",
+      "C. Ocena, jak algorytm konwertuje dane.",
+      "D. Ocena, jak algorytm jest zintegrowany z systemem operacyjnym."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Co to jest złożoność czasowa algorytmu?",
+    "Odpowiedzi": [
+      "A. Miara czasu wykonywania algorytmu w zależności od rozmiaru danych wejściowych.",
+      "B. Miara pamięci używanej przez algorytm.",
+      "C. Miara złożoności kodu źródłowego.",
+      "D. Miara liczby metod w algorytmie."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Co to jest złożoność przestrzenna algorytmu?",
+    "Odpowiedzi": [
+      "A. Miara pamięci używanej przez algorytm w zależności od rozmiaru danych wejściowych.",
+      "B. Miara czasu wykonywania algorytmu.",
+      "C. Miara liczby zmiennych w algorytmie.",
+      "D. Miara liczby operacji w algorytmie."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Jakie są różnice między algorytmem sortowania bąbelkowego a szybkim sortowaniem?",
+    "Odpowiedzi": [
+      "A. Sortowanie bąbelkowe jest prostsze, ale mniej wydajne; szybkie sortowanie jest bardziej złożone, ale bardziej efektywne.",
+      "B. Sortowanie bąbelkowe jest bardziej wydajne niż szybkie sortowanie.",
+      "C. Szybkie sortowanie jest bardziej złożone niż sortowanie przez wstawianie.",
+      "D. Szybkie sortowanie jest bardziej złożone, ale mniej wydajne niż sortowanie bąbelkowe."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  },
+  {
+    "Tresc": "Co to jest algorytm sortowania przez wstawianie i jak działa?",
+    "Odpowiedzi": [
+      "A. Algorytm, który sortuje dane przez wstawianie każdego elementu w odpowiednie miejsce w posortowanej części tablicy.",
+      "B. Algorytm, który sortuje dane przez dzielenie tablicy na mniejsze części.",
+      "C. Algorytm, który sortuje dane przez porównywanie każdego elementu z każdym innym.",
+      "D. Algorytm, który sortuje dane przez wymienianie miejscami elementów."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB8"
+  }
+]

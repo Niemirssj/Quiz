@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest mechanizm polimorfizmu?",
+    "Odpowiedzi": [
+      "A. Ustalanie wersji metody na podstawie typu obiektu.",
+      "B. Mechanizm tworzenia dynamicznych zmiennych.",
+      "C. Proces dodawania nowych metod do klasy.",
+      "D. Metoda kompilacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "Podaj przykłady działania mechanizmu polimorfizmu.",
+    "Odpowiedzi": [
+      "A. Klasa bazowa z metodą wirtualną i klasa pochodna nadpisująca tę metodę.",
+      "B. Wykorzystanie zmiennych globalnych.",
+      "C. Zmiana wartości zmiennych lokalnych.",
+      "D. Użycie metod zewnętrznych bibliotek."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "Jakie jest znaczenie metod wirtualnych i ich nadpisania?",
+    "Odpowiedzi": [
+      "A. Pozwalają na dynamiczne wywołanie metod w klasach pochodnych.",
+      "B. Zmieniają typ danych w czasie działania programu.",
+      "C. Umożliwiają utworzenie nowych klas.",
+      "D. Służą do optymalizacji pamięci."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "Co to są listy inicjalizacyjne i jak je stosujemy?",
+    "Odpowiedzi": [
+      "A. Syntaktyka do inicjalizacji kolekcji obiektów w czasie tworzenia.",
+      "B. Narzędzia do zarządzania pamięcią.",
+      "C. Mechanizm do tworzenia dynamicznych zmiennych.",
+      "D. Metoda do ładowania danych z pliku."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "W jaki sposób definiujemy dziedziczenie w C#?",
+    "Odpowiedzi": [
+      "A. Klasa bazowa i klasa pochodna z użyciem dwukropka (:).",
+      "B. Przez kopiowanie kodu klasy bazowej.",
+      "C. Poprzez implementację interfejsów.",
+      "D. Używając operatora '->'."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "Czym są właściwości i jakie mają znaczenie?",
+    "Odpowiedzi": [
+      "A. Umożliwiają dostęp do prywatnych pól klasy w sposób kontrolowany.",
+      "B. Służą do przechowywania danych użytkownika.",
+      "C. Używane są do zarządzania pamięcią.",
+      "D. Zawierają metody statyczne."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  },
+  {
+    "Tresc": "Czym różni się metoda wirtualna od metody abstrakcyjnej?",
+    "Odpowiedzi": [
+      "A. Wirtualna ma ciało, abstrakcyjna nie.",
+      "B. Wirtualna jest implementowana, abstrakcyjna jest deklaratywna.",
+      "C. Abstrakcyjna nie może być nadpisana.",
+      "D. Wirtualna jest tylko dla klas statycznych."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB1"
+  }
+]

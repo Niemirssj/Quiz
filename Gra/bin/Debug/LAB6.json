@@ -1,0 +1,68 @@
+[
+  {
+    "Tresc": "Co to jest wyjątek?",
+    "Odpowiedzi": [
+      "A. Wyjątek to błąd w trakcie działania programu, który obsługujemy za pomocą bloków try-catch.",
+      "B. Wyjątek to problem z kompilacją kodu.",
+      "C. Wyjątek to sposób optymalizacji pamięci.",
+      "D. Wyjątek to Adam."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  },
+  {
+    "Tresc": "Jakie są podstawowe elementy obsługi wyjątków?",
+    "Odpowiedzi": [
+      "A. Bloki try, catch, finally, throw.",
+      "B. Bloki if, else, switch, break.",
+      "C. Bloki for, while, foreach.",
+      "D. Bloki using, dispose."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  },
+  {
+    "Tresc": "Co to jest blok finally i jakie ma zastosowanie?",
+    "Odpowiedzi": [
+      "A. Blok w obsłudze wyjątków, który wykonuje się niezależnie od tego, czy wyjątek został rzucony czy nie.",
+      "B. Blok, który wykonuje się tylko wtedy, gdy wyjątek został rzucony.",
+      "C. Blok, który wykonuje się tylko w przypadku braku błędów.",
+      "D. Blok, który jest używany do tworzenia nowych metod."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  },
+  {
+    "Tresc": "Jakie są różnice między wyjątkiem sprawdzanym a niesprawdzanym?",
+    "Odpowiedzi": [
+      "A. Wyjątek sprawdzany musi być zadeklarowany w sygnaturze metody lub obsłużony, wyjątek niesprawdzany nie.",
+      "B. Wyjątek sprawdzany jest zawsze obsługiwany przez blok finally.",
+      "C. Wyjątek niesprawdzany nie może być obsługiwany przez blok catch.",
+      "D. Wyjątek sprawdzany jest tylko w czasie kompilacji, niesprawdzany tylko w czasie działania."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  },
+  {
+    "Tresc": "Co to jest klasa wyjątku i jak ją tworzymy?",
+    "Odpowiedzi": [
+      "A. Klasa, która dziedziczy po klasie Exception, służąca do definiowania własnych wyjątków.",
+      "B. Klasa, która dziedziczy po klasie Error.",
+      "C. Klasa, która zawiera metody do obsługi błędów kompilacji.",
+      "D. Klasa używana do zarządzania pamięcią."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  },
+  {
+    "Tresc": "Jakie są najlepsze praktyki przy obsłudze wyjątków?",
+    "Odpowiedzi": [
+      "A. Unikanie obsługi wyjątków w kodzie produkcyjnym, logowanie wyjątków, precyzyjne rzutowanie wyjątków.",
+      "B. Zawsze rzucanie wyjątków w każdym bloku try.",
+      "C. Rzucanie wyjątków tylko w przypadku błędów kompilacji.",
+      "D. Ignorowanie wyjątków, które nie są krytyczne."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB6"
+  }
+]

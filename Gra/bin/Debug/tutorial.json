@@ -1,0 +1,35 @@
+[
+  {
+    "Tresc": "Kto napisał potop",
+    "Odpowiedzi": [
+      "Mickiewicz",
+      "Beeeee",
+      "Sienkiewicz",
+      "Tuwim"
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 2,
+    "Typ": "tutorial"
+  },
+  {
+    "Tresc": "Najlepsze Anime",
+    "Odpowiedzi": [
+      "Hunter x Hunter",
+      "Dragon Ball",
+      "One Piece",
+      "Cowboy Beebop"
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 1,
+    "Typ": "tutorial"
+  },
+  {
+    "Tresc": "Co było pierwsze ",
+    "Odpowiedzi": [
+      "Kura",
+      "Jajko",
+      "52 pierogi",
+      "Ciemnośc"
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 3,
+    "Typ": "tutorial"
+  }
+]

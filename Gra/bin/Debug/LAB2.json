@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest mechanizm polimorfizmu?",
+    "Odpowiedzi": [
+      "A. Ustalanie wersji metody na podstawie typu obiektu.",
+      "B. Mechanizm tworzenia dynamicznych zmiennych.",
+      "C. Proces dodawania nowych metod do klasy.",
+      "D. Metoda kompilacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Jakie są różnice między metodami wirtualnymi i abstrakcyjnymi?",
+    "Odpowiedzi": [
+      "A. Metoda wirtualna ma ciało, a metoda abstrakcyjna nie.",
+      "B. Metoda abstrakcyjna jest opcjonalna, wirtualna jest obowiązkowa.",
+      "C. Metoda wirtualna nie może być nadpisana.",
+      "D. Metoda abstrakcyjna jest implementowana automatycznie."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Jaki jest cel korzystania z mechanizmu wyrzucania wyjątków?",
+    "Odpowiedzi": [
+      "A. Obsługa błędów w kontrolowany sposób.",
+      "B. Ukrywanie błędów przed użytkownikiem.",
+      "C. Poprawa wydajności programu.",
+      "D. Zmiana sposobu kompilacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Jakie jest znaczenie słów kluczowych i bloków związanych z wyrzucaniem wyjątków?",
+    "Odpowiedzi": [
+      "A. try, catch, finally - do zarządzania wyjątkiem.",
+      "B. break, continue - do kontroli pętli.",
+      "C. public, private - do dostępu do danych.",
+      "D. async, await - do programowania asynchronicznego."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Dlaczego tworzymy własne klasy wyjątków?",
+    "Odpowiedzi": [
+      "A. Aby dostosować obsługę błędów do specyficznych potrzeb aplikacji.",
+      "B. Aby zwiększyć szybkość działania aplikacji.",
+      "C. Aby ukryć szczegóły implementacyjne kodu.",
+      "D. Aby rozszerzyć możliwości języka C#."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Co to jest obsługa wyjątków i na czym polega?",
+    "Odpowiedzi": [
+      "A. Proces przechwytywania błędów i reagowania na nie.",
+      "B. Proces kompilacji kodu.",
+      "C. Proces optymalizacji pamięci.",
+      "D. Proces debugowania kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  },
+  {
+    "Tresc": "Czym jest instrukcja try-catch i jak działa?",
+    "Odpowiedzi": [
+      "A. Blok kodu służący do przechwytywania wyjątków i reagowania na nie.",
+      "B. Słowo kluczowe do deklarowania zmiennych.",
+      "C. Komenda do zakończenia pętli.",
+      "D. Słowo kluczowe do deklarowania metod."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB2"
+  }
+]

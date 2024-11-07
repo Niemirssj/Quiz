@@ -1,0 +1,68 @@
+{
+  "admin": {
+    "Wpro": true,
+    "Lab1": true,
+    "Lab2": true,
+    "Lab3": true,
+    "Lab4": true,
+    "Lab5": true,
+    "Lab6": true,
+    "Lab7": true,
+    "Lab10": true
+  },
+  "admin2": {
+    "Wpro": false,
+    "Lab1": false,
+    "Lab2": false,
+    "Lab3": false,
+    "Lab4": false,
+    "Lab5": false,
+    "Lab6": false,
+    "Lab7": false,
+    "Lab10": false
+  },
+  "adam": {
+    "Wpro": true,
+    "Lab1": true,
+    "Lab2": true,
+    "Lab3": true,
+    "Lab4": true,
+    "Lab5": true,
+    "Lab6": true,
+    "Lab7": true,
+    "Lab10": true
+  },
+  "niemir": {
+    "Wpro": true,
+    "Lab1": true,
+    "Lab2": true,
+    "Lab3": true,
+    "Lab4": false,
+    "Lab5": false,
+    "Lab6": false,
+    "Lab7": false,
+    "Lab10": false
+  },
+  "Szymon": {
+    "Wpro": true,
+    "Lab1": true,
+    "Lab2": true,
+    "Lab3": false,
+    "Lab4": false,
+    "Lab5": false,
+    "Lab6": false,
+    "Lab7": false,
+    "Lab10": false
+  },
+  "Maciej": {
+    "Wpro": true,
+    "Lab1": true,
+    "Lab2": false,
+    "Lab3": false,
+    "Lab4": false,
+    "Lab5": false,
+    "Lab6": false,
+    "Lab7": false,
+    "Lab10": false
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest enkapsulacja?",
+    "Odpowiedzi": [
+      "A. Ukrywanie szczegółów implementacji klasy i udostępnianie tylko niezbędnych metod.",
+      "B. Proces kompilacji kodu.",
+      "C. Metoda dodawania nowych klas.",
+      "D. Proces optymalizacji pamięci."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Jakie są zasady tworzenia właściwości w klasie?",
+    "Odpowiedzi": [
+      "A. Deklaracja pól prywatnych i udostępnianie ich przez publiczne właściwości.",
+      "B. Deklaracja wszystkich właściwości jako publiczne.",
+      "C. Tworzenie metod do zarządzania zmiennymi globalnymi.",
+      "D. Tworzenie metod statycznych do inicjalizacji obiektów."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Czym są właściwości autoimplementowane i kiedy ich używamy?",
+    "Odpowiedzi": [
+      "A. Właściwości, które automatycznie tworzą prywatne pole do przechowywania wartości.",
+      "B. Właściwości, które są zawsze prywatne.",
+      "C. Właściwości, które nie mogą być modyfikowane.",
+      "D. Właściwości używane tylko w interfejsach."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Co to jest dostęp do pól w klasie?",
+    "Odpowiedzi": [
+      "A. Mechanizm umożliwiający odczyt i zapis wartości pól klasy przez metody.",
+      "B. Proces kompilacji kodu.",
+      "C. Proces optymalizacji pamięci.",
+      "D. Proces tworzenia nowych metod."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Jakie są różnice między modyfikatorami dostępu publicznym, prywatnym i chronionym?",
+    "Odpowiedzi": [
+      "A. Publiczny: dostęp z każdego miejsca; Prywatny: dostęp tylko w obrębie klasy; Chroniony: dostęp w obrębie klasy i klas pochodnych.",
+      "B. Publiczny: dostęp tylko w obrębie klasy; Prywatny: dostęp z każdego miejsca; Chroniony: dostęp tylko w obrębie pakietu.",
+      "C. Publiczny: dostęp z klasy bazowej; Prywatny: dostęp tylko z zewnątrz; Chroniony: dostęp z każdego miejsca.",
+      "D. Publiczny: dostęp tylko w obrębie metody; Prywatny: dostęp z klasy pochodnej; Chroniony: dostęp tylko z zewnątrz."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Co to jest konstruktor i jakie ma zastosowanie?",
+    "Odpowiedzi": [
+      "A. Metoda wywoływana przy tworzeniu obiektu, służąca do inicjalizacji obiektu.",
+      "B. Metoda używana do usuwania obiektów.",
+      "C. Metoda statyczna do zarządzania pamięcią.",
+      "D. Metoda do obsługi wyjątków."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  },
+  {
+    "Tresc": "Jakie są różnice między konstruktorem domyślnym a parametryzowanym?",
+    "Odpowiedzi": [
+      "A. Konstruktor domyślny nie przyjmuje żadnych parametrów, parametryzowany przyjmuje.",
+      "B. Konstruktor domyślny jest używany tylko w klasach abstrakcyjnych.",
+      "C. Konstruktor parametryzowany nie może być przeciążany.",
+      "D. Konstruktor domyślny wymaga definicji pól prywatnych."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB4"
+  }
+]

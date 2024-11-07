@@ -1,0 +1,200 @@
+[
+  {
+    "Tresc": "Co to jest .NET?",
+    "Odpowiedzi": [
+      "Wielojęzyczna platforma programistyczna.",
+      "System operacyjny.",
+      "Język programowania.",
+      "Baza danych."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co jest wynikiem kompilacji programu napisanego na platformie .NET?",
+    "Odpowiedzi": [
+      "Pakiet w postaci pliku .dll lub .exe.",
+      "Plik tekstowy.",
+      "Dokument HTML.",
+      "Obrazek."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Jakie rodzaje typów możemy definiować w języku C#?",
+    "Odpowiedzi": [
+      "Klasy, interfejsy, delegaty, struktury, enumeracje, rekordy.",
+      "Tylko klasy.",
+      "Tylko interfejsy.",
+      "Tylko delegaty."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Na czym polega obsługa wyjątków?",
+    "Odpowiedzi": [
+      "Na przekazaniu informacji o błędzie do kodu wywołującego.",
+      "Na ignorowaniu błędów.",
+      "Na tworzeniu kopii zapasowych.",
+      "Na testowaniu kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Na czym polega polimorfizm?",
+    "Odpowiedzi": [
+      "Na ustaleniu wersji metody na podstawie typu obiektu.",
+      "Na tworzeniu wielu obiektów.",
+      "Na dziedziczeniu klas.",
+      "Na kompilacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Czym się różni metoda wirtualna od metody abstrakcyjnej?",
+    "Odpowiedzi": [
+      "Metoda wirtualna ma implementację, a abstrakcyjna nie.",
+      "Obie są takie same.",
+      "Metoda wirtualna nie ma implementacji.",
+      "Metoda abstrakcyjna jest zawsze publiczna."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co to jest klasa abstrakcyjna?",
+    "Odpowiedzi": [
+      "Klasa, której instancji nie można tworzyć.",
+      "Klasa, która nie ma pól.",
+      "Klasa, która jest finalna.",
+      "Klasa, która nie może dziedziczyć."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co to jest interfejs?",
+    "Odpowiedzi": [
+      "Zbiór abstrakcyjnych składowych, które mogą być implementowane.",
+      "Typ, którego instancji nie można tworzyć.",
+      "Typ, który nie ma właściwości.",
+      "Typ, który nie ma metod."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Po co w klasie implementować interfejs?",
+    "Odpowiedzi": [
+      "Aby skorzystać z gotowej funkcjonalności.",
+      "Aby zwiększyć złożoność kodu.",
+      "Aby ograniczyć funkcjonalność.",
+      "Aby uniknąć dziedziczenia."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Z czego lepiej skorzystać do zaimplementowania warstwy abstrakcji?",
+    "Odpowiedzi": [
+      "Z interfejsu, gdy nie chcemy definiować gotowych składowych.",
+      "Z klasy bazowej, aby dziedziczyć wszystkie metody.",
+      "Z klas, aby zwiększyć złożoność.",
+      "Z obiektów, aby uniknąć typowania."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Na czym polega generyczność?",
+    "Odpowiedzi": [
+      "Na tworzeniu szablonów dla typów i metod.",
+      "Na definiowaniu tylko jednego typu.",
+      "Na używaniu typów statycznych.",
+      "Na tworzeniu klas niegenerycznych."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co to są delegaty?",
+    "Odpowiedzi": [
+      "Silnie typowane wskaźniki do metod.",
+      "Wskaźniki do obiektów.",
+      "Typy dynamiczne.",
+      "Typy kolekcji."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co to są metody rozszerzeniowe?",
+    "Odpowiedzi": [
+      "Statyczne metody wywoływane na obiektach wskazanego typu.",
+      "Metody wywoływane tylko na statycznych klasach.",
+      "Metody, które nie mają argumentów.",
+      "Metody, które nie mogą być publiczne."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Do czego używamy słówka var?",
+    "Odpowiedzi": [
+      "Do niejawnego typowania zmiennych lokalnych.",
+      "Do definiowania zmiennych statycznych.",
+      "Do typowania globalnego.",
+      "Do deklaracji interfejsów."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Do czego wykorzystujemy właściwości?",
+    "Odpowiedzi": [
+      "Do kontroli dostępu do prywatnych pól w klasie.",
+      "Do definiowania klas.",
+      "Do pisania metod.",
+      "Do tworzenia interfejsów."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Na czym polega refleksja?",
+    "Odpowiedzi": [
+      "Na pozyskiwaniu informacji o typach w czasie działania programu.",
+      "Na kompilacji kodu.",
+      "Na tworzeniu obiektów.",
+      "Na definiowaniu metod."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Na czym polega serializacja?",
+    "Odpowiedzi": [
+      "Na przekształceniu stanu obiektu do postaci serii bajtów.",
+      "Na tworzeniu obiektów.",
+      "Na kopiowaniu obiektów.",
+      "Na przechowywaniu danych w plikach."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  },
+  {
+    "Tresc": "Co to jest ADO.NET?",
+    "Odpowiedzi": [
+      "API do łatwego korzystania z systemów bazodanowych.",
+      "Typ bazy danych.",
+      "Język programowania.",
+      "Metoda kompilacji."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "egzamin"
+  }
+]

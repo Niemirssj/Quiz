@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Co to jest interfejs i jak go definiujemy?",
+    "Odpowiedzi": [
+      "A. Zbiór abstrakcyjnych metod do implementacji w klasach. Definiujemy go za pomocą słowa kluczowego 'interface'.",
+      "B. Zbiór guzików po którym się poruszamy",
+      "C. Typ danych.",
+      "D. Wbudowany moduł .NET."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Co to jest interfejs i jak go definiujemy?",
+    "Odpowiedzi": [
+      "A. Zbiór abstrakcyjnych metod do implementacji w klasach. Definiujemy go za pomocą słowa kluczowego 'interface'.",
+      "B. Zbiór guzików po którym się poruszamy",
+      "C. Typ danych.",
+      "D. Wbudowany moduł .NET."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Kiedy warto dodać nowy interfejs do projektu?",
+    "Odpowiedzi": [
+      "A. Kiedy potrzebujemy zdefiniować kontrakt dla różnych klas.",
+      "B. Kiedy chcemy zainicjalizować nowe obiekty.",
+      "C. Kiedy optymalizujemy pamięć.",
+      "D. Kiedy dodajemy nowe zmienne."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Co to jest baza wspólnego kodu?",
+    "Odpowiedzi": [
+      "A. Kod, który jest wspólny dla różnych klas i projektów, często umieszczony w interfejsach lub klasach bazowych.",
+      "B. Zbiór danych do obsługi błędów.",
+      "C. Narzędzie do tworzenia nowych klas.",
+      "D. Komponent do optymalizacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Co nam daje zaimplementowanie interfejsu w klasie?",
+    "Odpowiedzi": [
+      "A. Możliwość użycia metod zdefiniowanych w interfejsie w klasie implementującej.",
+      "B. Zmienia typ danych klasy.",
+      "C. Dodaje nowe zmienne do klasy.",
+      "D. Umożliwia optymalizację pamięci."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Czym jest klasa abstrakcyjna i jakie ma zastosowanie?",
+    "Odpowiedzi": [
+      "A. Klasa, która nie może być instancjonowana, ale może zawierać metody z implementacją, oraz może być dziedziczona.",
+      "B. Klasa, która nie może mieć metod.",
+      "C. Klasa, której metody są zawsze publiczne.",
+      "D. Klasa z metodami statycznymi."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  },
+  {
+    "Tresc": "Jakie są różnice między klasą abstrakcyjną a interfejsem?",
+    "Odpowiedzi": [
+      "A. Klasa abstrakcyjna może mieć implementację metod, interfejs tylko deklaracje metod.",
+      "B. Klasa abstrakcyjna nie może mieć metod, interfejs może.",
+      "C. Interfejsy są zawsze publiczne, klasy abstrakcyjne są prywatne.",
+      "D. Interfejsy są używane tylko w metodach asynchronicznych."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB3"
+  }
+]

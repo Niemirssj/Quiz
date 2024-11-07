@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "Login": "admin",
+    "Password": "admin"
+  },
+  "admin2": {
+    "Login": "admin2",
+    "Password": "1234"
+  },
+  "adam": {
+    "Login": "adam",
+    "Password": "adam"
+  },
+  "niemir": {
+    "Login": "niemir",
+    "Password": "niemir"
+  },
+  "Szymon": {
+    "Login": "Szymon",
+    "Password": "1234"
+  },
+  "Maciej": {
+    "Login": "Maciej",
+    "Password": "1234"
+  }
+}

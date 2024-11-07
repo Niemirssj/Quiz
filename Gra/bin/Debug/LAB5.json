@@ -1,0 +1,79 @@
+[
+  {
+    "Tresc": "Czym jest dziedziczenie i jakie ma zastosowanie?",
+    "Odpowiedzi": [
+      "A. Mechanizm umożliwiający tworzenie nowych klas na podstawie istniejących, dziedzicząc ich właściwości i metody.",
+      "B. Proces dodawania nowych metod do klasy.",
+      "C. Proces tworzenia zmiennych globalnych.",
+      "D. Proces zarządzania pamięcią."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Co to jest klasa pochodna i jakie są jej właściwości?",
+    "Odpowiedzi": [
+      "A. Klasa, która dziedziczy właściwości i metody z klasy bazowej, może nadpisywać metody bazowe.",
+      "B. Klasa, która nie może dziedziczyć żadnych właściwości.",
+      "C. Klasa, która dziedziczy tylko metody statyczne.",
+      "D. Klasa, która nie może być używana jako baza dla innych klas."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Czym są metody przesłonięte i jakie mają zastosowanie?",
+    "Odpowiedzi": [
+      "A. Metody w klasie pochodnej, które nadpisują metody klasy bazowej.",
+      "B. Metody, które nie mogą być wywoływane z zewnątrz klasy.",
+      "C. Metody używane tylko w klasach abstrakcyjnych.",
+      "D. Metody do optymalizacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Co to jest zasada podstawienia Liskov?",
+    "Odpowiedzi": [
+      "A. Zasada, która mówi, że obiekty klasy bazowej powinny być wymienialne na obiekty klasy pochodnej bez wpływu na poprawność programu.",
+      "B. Zasada, która mówi, że metody muszą być zawsze publiczne.",
+      "C. Zasada, która mówi, że klasy pochodne muszą być zawsze abstrakcyjne.",
+      "D. Zasada, która mówi, że metody muszą być zawsze prywatne."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Jakie są różnice między dziedziczeniem a kompozycją?",
+    "Odpowiedzi": [
+      "A. Dziedziczenie pozwala na rozszerzenie funkcjonalności klasy, kompozycja na używanie obiektów innych klas w ramach jednej klasy.",
+      "B. Dziedziczenie używa tylko metod, kompozycja tylko zmiennych.",
+      "C. Dziedziczenie jest wykorzystywane tylko w interfejsach, kompozycja w klasach.",
+      "D. Dziedziczenie i kompozycja są tym samym."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Co to jest zasada pojedynczej odpowiedzialności?",
+    "Odpowiedzi": [
+      "A. Zasada, która mówi, że klasa powinna mieć tylko jedną odpowiedzialność lub powód do zmiany.",
+      "B. Zasada, która mówi, że klasy powinny być jak najbardziej rozbudowane.",
+      "C. Zasada, która mówi, że każda klasa powinna mieć więcej niż jedną metodę.",
+      "D. Zasada, która mówi, że klasy powinny być dziedziczone z interfejsów."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  },
+  {
+    "Tresc": "Czym jest interfejs i jakie ma zastosowanie?",
+    "Odpowiedzi": [
+      "A. Zbiór abstrakcyjnych metod i właściwości, które mogą być zaimplementowane przez klasy.",
+      "B. Klasa zawierająca tylko metody statyczne.",
+      "C. Typ danych do przechowywania obiektów.",
+      "D. Metoda do optymalizacji kodu."
+    ],
+    "IndeksPrawidlowejOdpowiedzi": 0,
+    "Typ": "LAB5"
+  }
+]
